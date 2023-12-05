@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/varunracha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varunracha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/varunracha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varunracha/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/varunracha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/varunracha" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_varun_racha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_varun_racha_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/varunracha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/varunracha" height="30" width="40" /></a>
