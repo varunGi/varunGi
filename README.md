@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **varunracha470@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFsGCYE8dc/JwcmPtmK-tH-oT4SWdMReg/edit?utm_content=DAFsGCYE8dc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFsGCYE8dc/JwcmPtmK-tH-oT4SWdMReg/edit?utm_content=DAFsGCYE8dc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Zi1j5ewPJ_mMcGU6Fx6bUpQLQQeNRcNv/view?usp=drive_link](https://drive.google.com/file/d/1Zi1j5ewPJ_mMcGU6Fx6bUpQLQQeNRcNv/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +29,6 @@
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/varunracha470" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/varunracha470" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/varunracha470" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/varunracha470" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/https://www.hackerearth.com/@varunracha470" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@varunracha470" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/varunracha470/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/varunracha470/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
